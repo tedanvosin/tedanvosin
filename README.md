@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vedant Soni
 
-[![LinkedIn](https://img.shields.io/badge/-vedantsoni3006-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vedantsoni3006/)](https://www.linkedin.com/in/vedantsoni3006/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vedantsoni3006/)](https://www.linkedin.com/in/vedantsoni3006/)
 [![Email](https://img.shields.io/badge/-vedusoni@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vedusoni@gmail.com)
 ![Visitors](https://komarev.com/ghpvc/?username=vedantsoni3006&style=flat-square)
 ![Profile](https://img.shields.io/badge/Masters@ASU-Computer%20Science-purple)
