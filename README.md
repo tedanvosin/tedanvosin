@@ -88,8 +88,9 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 [![CompTIA Security+](./badges/security_plus.png)](https://www.credly.com/badges/efa866db-0078-493c-9a23-4e0add757ef4/public_url)
 [![Google](./badges/google_cybersec.png)](https://www.credly.com/badges/11f86131-a8aa-42b4-96fe-c2b912d83644/public_url)
 
-#### In-Progress
-![CEH](https://img.shields.io/badge/CEH-In%20Progress-yellow?style=for-the-badge)
+### In-Progress
+![CEH](https://img.shields.io/badge/EC--Council-Certified%20Ethical%20Hacker-yellow?style=for-the-badge)
+![CCNA](https://img.shields.io/badge/Cisco-Certified%20Netowrk%20Associate-blue?style=for-the-badge)
 
 ---
 
