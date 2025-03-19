@@ -61,7 +61,7 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 ![SearchSploit](https://img.shields.io/badge/SearchSploit-ED1C24?style=for-the-badge)
 
 ### 💻 Operating Systems
-![Linux](https://img.shields.io/badge/Linux-Ubuntu%7CDebian%7CKali%7CFedora%7CArch-informational?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%7CDebian%7CKali%7CFedora%7CArch-informational?style=for-the-badge&logo=Linux)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
 
