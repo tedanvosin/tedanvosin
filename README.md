@@ -25,7 +25,7 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+--
 
 ### 🧰 Tools & Frameworks
 
@@ -85,7 +85,7 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 ## 📜 Certifications
 
 ### Completed
-[![Security+](https://img.shields.io/badge/CompTIA--Security+-red?style=for-the-badge)](https://www.comptia.org/)
+[![Security+](https://www.credly.com/badges/efa866db-0078-493c-9a23-4e0add757ef4/public_url)](https://www.comptia.org/)
 [![Google](https://img.shields.io/badge/Google--Cybersecurity-blue?style=for-the-badge)](https://grow.google/certificates/cybersecurity/)
 
 #### In-Progress
