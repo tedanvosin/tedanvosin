@@ -9,7 +9,7 @@
 
 🔐 **Cybersecurity Enthusiast | Reverse Engineer | Binary Ninja**
 
-I’m currently pursuing my **Master’s in Computer Science at Arizona State University**, with a research focus on **improving type inference in decompilers** at SEFCOM Labs. I love playing CTFs, breaking binaries, and creating cool tools that make reverse engineering easier and more efficient.
+I’m currently pursuing my **Master’s in Computer Science at Arizona State University**, with a research focus on **analyzing type inference in decompilers** at SEFCOM Labs @ ASU. I love playing CTFs, specializing in Reverse Engineering and Binary Exploitation and creating cool tools that make reverse engineering easier and more efficient.
 
 ---
 
@@ -29,7 +29,7 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 
 ### 🧰 Tools & Frameworks
 
-#### 🤩 Reverse Engineering
+#### 🔄 Reverse Engineering
 ![IDA Pro](https://img.shields.io/badge/IDA--Pro-lightgrey?style=for-the-badge)
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge)
 ![Binary Ninja](https://img.shields.io/badge/Binary%20Ninja-2D2D2D?style=for-the-badge)
@@ -94,8 +94,6 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tedanvosin&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tedanvosin&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedanvosin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=tedanvosin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tedanvosin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tedanvosin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
