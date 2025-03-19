@@ -7,7 +7,7 @@
 
 ---
 
-🔐 **Cybersecurity Enthusiast | Reverse Engineer**
+🔐 **Cybersecurity and Networking Enthusiast**
 
 I’m currently pursuing my **Master’s in Computer Science at Arizona State University**, with a research focus on **analyzing type inference in decompilers** at SEFCOM Labs @ ASU. I love playing CTFs, specializing in Reverse Engineering and Binary Exploitation and creating cool tools that make reverse engineering easier and more efficient.
 
@@ -90,7 +90,7 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 
 ### In-Progress
 ![CEH](https://img.shields.io/badge/EC--Council-Certified%20Ethical%20Hacker-yellow?style=for-the-badge)
-![CCNA](https://img.shields.io/badge/Cisco-Certified%20Netowork%20Associate-blue?style=for-the-badge)
+![CCNA](https://img.shields.io/badge/Cisco-Certified%20Network%20Associate-blue?style=for-the-badge)
 
 ---
 
