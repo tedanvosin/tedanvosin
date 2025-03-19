@@ -85,7 +85,7 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 ## 📜 Certifications
 
 ### Completed
-[![Security+](https://www.credly.com/badges/efa866db-0078-493c-9a23-4e0add757ef4/public_url)](https://www.comptia.org/)
+[![Security+](https://img.shields.io/badge/CompTIA--Security+-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/efa866db-0078-493c-9a23-4e0add757ef4/public_url)
 [![Google](https://img.shields.io/badge/Google--Cybersecurity-blue?style=for-the-badge)](https://grow.google/certificates/cybersecurity/)
 
 #### In-Progress
