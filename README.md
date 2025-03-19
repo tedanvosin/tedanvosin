@@ -56,7 +56,7 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 ![Burp Suite](https://img.shields.io/badge/Burp--Suite-ff6600?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-black?style=for-the-badge&logo=owasp&logoColor=white)
 
-### 💻 Operating Systems
+#### 💻 Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%7CDebian%7CKali%7CFedora%7CArch-informational?style=for-the-badge&logo=Linux&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
