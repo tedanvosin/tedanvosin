@@ -36,7 +36,7 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 ![Angr](https://img.shields.io/badge/Angr-cc0000?style=for-the-badge)
 ![Radare2](https://img.shields.io/badge/Radare2-black?style=for-the-badge)
 
-### 🤖 Android Reversing
+#### 🤖 Android Reversing
 ![JADX](https://img.shields.io/badge/JADX-purple?style=for-the-badge)
 ![MobSF](https://img.shields.io/badge/MobSF-blue?style=for-the-badge)
 ![APKTool](https://img.shields.io/badge/APKTool-black?style=for-the-badge)
@@ -50,7 +50,6 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
 ![tcpdump](https://img.shields.io/badge/tcpdump-blue?style=for-the-badge)
-![Scapy](https://img.shields.io/badge/Scapy-green?style=for-the-badge)
 
 #### 🔸 Web Security & Exploitation Frameworks
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
