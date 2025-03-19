@@ -25,7 +25,7 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
---
+----
 
 ### 🧰 Tools & Frameworks
 
