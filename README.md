@@ -36,15 +36,15 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 ![Angr](https://img.shields.io/badge/Angr-cc0000?style=for-the-badge)
 ![Radare2](https://img.shields.io/badge/Radare2-black?style=for-the-badge)
 
-#### 🤖 Android Reversing
-![JADX](https://img.shields.io/badge/JADX-purple?style=for-the-badge)
-![MobSF](https://img.shields.io/badge/MobSF-blue?style=for-the-badge)
-![APKTool](https://img.shields.io/badge/APKTool-black?style=for-the-badge)
-
-#### 💥 Binary Exploitation
+#### 💥 Binary Exploitation and Debugging
 ![GDB](https://img.shields.io/badge/GDB-vanilla%2Fpwndbg%2Fgef-purple?style=for-the-badge)
 ![WinDbg](https://img.shields.io/badge/WinDbg-blue?style=for-the-badge)
 ![LLDB](https://img.shields.io/badge/LLDB-FF9900?style=for-the-badge)
+
+#### 🤖 Android Reverse Engineering
+![JADX](https://img.shields.io/badge/JADX-purple?style=for-the-badge)
+![MobSF](https://img.shields.io/badge/MobSF-blue?style=for-the-badge)
+![APKTool](https://img.shields.io/badge/APKTool-black?style=for-the-badge)
 
 #### 🌐 Networking & Packet Analysis
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -90,7 +90,7 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 
 ### In-Progress
 ![CEH](https://img.shields.io/badge/EC--Council-Certified%20Ethical%20Hacker-yellow?style=for-the-badge)
-![CCNA](https://img.shields.io/badge/Cisco-Certified%20Netowrk%20Associate-blue?style=for-the-badge)
+![CCNA](https://img.shields.io/badge/Cisco-Certified%20Netowork%20Associate-blue?style=for-the-badge)
 
 ---
 
