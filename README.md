@@ -40,15 +40,15 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 ![APKTool](https://img.shields.io/badge/APKTool-black?style=for-the-badge)
 
 #### 💥 Binary Exploitation
-![GDB](https://img.shields.io/badge/GDB-vanilla%2Fpwndbg%2Fgef-green?style=for-the-badge)
+![GDB](https://img.shields.io/badge/GDB-vanilla%2Fpwndbg%2Fgef-purple?style=for-the-badge)
 ![WinDbg](https://img.shields.io/badge/WinDbg-Windows-blue?style=for-the-badge)
 ![LLDB](https://img.shields.io/badge/LLDB-FF9900?style=for-the-badge)
 
 #### 🌐 Networking & Packet Analysis
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![tcpdump](https://img.shields.io/badge/tcpdump-command--line-blue?style=for-the-badge)
-![Scapy](https://img.shields.io/badge/Scapy-Python-green?style=for-the-badge)
+![tcpdump](https://img.shields.io/badge/tcpdump-blue?style=for-the-badge)
+![Scapy](https://img.shields.io/badge/Scapy-green?style=for-the-badge)
 
 #### 🔸 Web Security
 ![Burp Suite](https://img.shields.io/badge/Burp--Suite-ff6600?style=for-the-badge)
@@ -68,7 +68,7 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 ## 🎯 CTF and Community
 
 - 🥷 **CTF Team Member** – Shellphish & ASU Hacking Club  
-- 🟢 **pwn.college Green Belt** – Specializing in Reverse Engineering and pwning  
+- 🟢 **pwn.college Green Belt** – Specializing in Reverse Engineering and Pwning  
 - ⚔️ Active on HackTheBox & HackerOne (Web, RE, Network)
 
 ---
@@ -86,8 +86,8 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 
 ## 📜 Certifications
 
-[![Security+](https://img.shields.io/badge/CompTIA-Security+-red?style=for-the-badge)](https://www.comptia.org/)
-[![Google](https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge)](https://grow.google/certificates/cybersecurity/)
+[![Security+](https://img.shields.io/badge/CompTIA--Security+-red?style=for-the-badge)](https://www.comptia.org/)
+[![Google](https://img.shields.io/badge/Google--Cybersecurity-blue?style=for-the-badge)](https://grow.google/certificates/cybersecurity/)
 ![CEH](https://img.shields.io/badge/CEH-In%20Progress-yellow?style=for-the-badge)
 
 ---
