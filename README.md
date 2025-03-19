@@ -38,12 +38,11 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 ![JADX](https://img.shields.io/badge/JADX-purple?style=for-the-badge)
 ![MobSF](https://img.shields.io/badge/MobSF-blue?style=for-the-badge)
 ![APKTool](https://img.shields.io/badge/APKTool-black?style=for-the-badge)
-![WinDbg](https://img.shields.io/badge/WinDbg-Windows-blue?style=for-the-badge)
-![LLDB](https://img.shields.io/badge/LLDB-FF9900?style=for-the-badge)
 
 #### 💥 Binary Exploitation
-![pwndbg](https://img.shields.io/badge/pwndbg-GDB-green?style=for-the-badge)
-![gef](https://img.shields.io/badge/GEF-GDB-yellow?style=for-the-badge)
+![GDB](https://img.shields.io/badge/GDB-vanilla%2Fpwndbg%2Fgef-green?style=for-the-badge)
+![WinDbg](https://img.shields.io/badge/WinDbg-Windows-blue?style=for-the-badge)
+![LLDB](https://img.shields.io/badge/LLDB-FF9900?style=for-the-badge)
 
 #### 🌐 Networking & Packet Analysis
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
