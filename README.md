@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantsoni3006/)
 [![Email](https://img.shields.io/badge/-vedusoni@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedusoni@gmail.com)
 ![Profile](https://img.shields.io/badge/Masters@ASU-Computer%20Science-purple?style=for-the-badge)
-![CTF](https://img.shields.io/badge/CTF%20Player-Shellphish%20&%20ASU%20Hacking%20Club-ff69b4?style=for-the-badge)
+![CTF](https://img.shields.io/badge/CTF%20Player-Shellphish%20&%20ASU%20Hacking%20Club-black?style=for-the-badge)
 
 ---
 
