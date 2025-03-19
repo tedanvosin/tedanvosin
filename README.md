@@ -29,12 +29,14 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 
 ### 🧰 Tools & Frameworks
 
-#### 🔄 Reverse Engineering
+#### 🔄 Binary Reverse Engineering
 ![IDA Pro](https://img.shields.io/badge/IDA--Pro-lightgrey?style=for-the-badge)
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge)
 ![Binary Ninja](https://img.shields.io/badge/Binary%20Ninja-2D2D2D?style=for-the-badge)
 ![Angr](https://img.shields.io/badge/Angr-cc0000?style=for-the-badge)
 ![Radare2](https://img.shields.io/badge/Radare2-black?style=for-the-badge)
+
+### 🤖 Android Reversing
 ![JADX](https://img.shields.io/badge/JADX-purple?style=for-the-badge)
 ![MobSF](https://img.shields.io/badge/MobSF-blue?style=for-the-badge)
 ![APKTool](https://img.shields.io/badge/APKTool-black?style=for-the-badge)
