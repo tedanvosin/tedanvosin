@@ -43,7 +43,7 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 
 #### 💥 Binary Exploitation
 ![GDB](https://img.shields.io/badge/GDB-vanilla%2Fpwndbg%2Fgef-purple?style=for-the-badge)
-![WinDbg](https://img.shields.io/badge/WinDbg-Windows-blue?style=for-the-badge)
+![WinDbg](https://img.shields.io/badge/WinDbg-blue?style=for-the-badge)
 ![LLDB](https://img.shields.io/badge/LLDB-FF9900?style=for-the-badge)
 
 #### 🌐 Networking & Packet Analysis
@@ -84,8 +84,11 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 
 ## 📜 Certifications
 
+### Completed
 [![Security+](https://img.shields.io/badge/CompTIA--Security+-red?style=for-the-badge)](https://www.comptia.org/)
 [![Google](https://img.shields.io/badge/Google--Cybersecurity-blue?style=for-the-badge)](https://grow.google/certificates/cybersecurity/)
+
+#### In-Progress
 ![CEH](https://img.shields.io/badge/CEH-In%20Progress-yellow?style=for-the-badge)
 
 ---
