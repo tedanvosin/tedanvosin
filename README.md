@@ -67,8 +67,10 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 ## 🎯 CTF and Community
 
 - 🥷 **CTF Team Member** – Shellphish & ASU Hacking Club  
+- 🏆 **Past CTF Solves:** Solutions for my past CTF challenges – [View Repository](https://github.com/tedanvosin/CTF)
 - 🟢 **pwn.college Green Belt** – Specializing in Reverse Engineering and Pwning  
 - ⚔️ Active on HackTheBox & HackerOne (Web, RE, Network)
+
 
 ---
 
