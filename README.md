@@ -92,11 +92,3 @@ I’m currently pursuing my **Master’s in Computer Science at Arizona State Un
 ### In-Progress
 ![CEH](https://img.shields.io/badge/EC--Council-Certified%20Ethical%20Hacker-yellow?style=for-the-badge)
 ![CCNA](https://img.shields.io/badge/Cisco-Certified%20Network%20Associate-blue?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=tedanvosin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tedanvosin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tedanvosin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
